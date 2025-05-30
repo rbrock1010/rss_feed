@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>Elon Musk</title>
+  <title>Title text</title>
   <link>https://linktoyoursite.com</link>
-  <description>"Failure is an option here. If things are not failing, you are not innovating enough"</description>
+  <description>Description text</description>
   
   <item>
     <title>Entry 1 title</title>
